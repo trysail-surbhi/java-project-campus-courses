@@ -1,4 +1,4 @@
-# Campus Course & Records Manager (CCRM)
+# Java project campus courses
 
 A **console-based Java application** for managing students, courses, enrollments, and academic records in a campus setting.  
 This project demonstrates **Object-Oriented Programming (OOP)** concepts, Java SE APIs, modern I/O with NIO.2, Streams, Date/Time API, recursion, and design patterns (Singleton, Builder).
@@ -51,7 +51,7 @@ java -cp bin edu.ccrm.cli.Main
 ## 📂 Example Usage
 Sample CLI flow:
 ```
-===== Campus Course & Records Manager =====
+===== java project campus courses =====
 1. Manage Students
 2. Manage Courses
 3. Manage Enrollment & Grades
@@ -91,3 +91,4 @@ Sample CLI flow:
 ## 🙏 Acknowledgements
 - Java SE official documentation  
 - Oracle tutorials on NIO.2, Streams, and OOP patterns  
+
